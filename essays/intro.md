@@ -1,19 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Why Management Information Systems?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-01-18
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - MIS
+  - Introduction
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+Initially, at the start of my college career, I pursued a degree in computer science. After taking some classes it was clear that my interest went above strictly coding. My passion for technology has always been more of a hands-on approach to troubleshooting that information technology careers specialize in.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+This is when I came across the Management Information Systems program offered at Shidler College of Business. This program focuses more on the application of technology in a business setting where you're looking to bridge the gap between technology and the business world. This career path is more suited for my goals in the future and through learning MIS I plan to effectively demonstrate the skills I learned on the technological and business side at the professional level. 
