@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why Management Information Systems?"
+title: "Introduction"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
 published: true
