@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.B.A in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "https://github.com/Ian-Bowersss" }
+      { "network": "github", "username": "Ian-Bowersss", "url": "https://github.com/Ian-Bowersss" }
       
     ]
   },
@@ -34,7 +34,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Spring, 2025)",
-      "studyType": "B.S.",
+      "studyType": "B.A.",
       "startDate": "2022-08-24",
       "endDate": "Present",
       "courses": [
@@ -44,19 +44,19 @@
   "work": [
     {
       "company": "Indigo Real Estate Services",
-      "position": "Web Developer",
+      "position": "Account Payable",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Accounts Payable employee",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
+        "Review and correct property invoices",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Indigo Real Estate Services",
+      "position": "Property Maintenance Worker",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
