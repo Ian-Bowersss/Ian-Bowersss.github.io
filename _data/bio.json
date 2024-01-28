@@ -1,103 +1,30 @@
-{
-  "basics": {
-    "name": "Ian Bowers",
-    "label": "Shidler Undergraduate",
-    "picture": "https://github.com/Ian-Bowersss.png",
-    "email": "Bowersi@hawaii.edu",
-    "phone": "425-598-3832",
-    "website": "https://ian-bowersss.github.io",
-    "summary": "I am studying for a B.B.A in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "Ian-Bowersss", "url": "https://github.com/Ian-Bowersss" }
-      
-    ]
-  },
-  "interests": [
-    { "name": "Baseball" },
-    { "name": "Lifting" },
-    { "name": "Technology" },
-    { "name": "Snowboarding" },
-    { "name": "Traveling" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C++", "Java", "Javascript", "Python" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2025)",
-      "studyType": "B.A.",
-      "startDate": "2022-08-24",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Indigo Real Estate Services",
-      "position": "Account Payable",
-      "website": "https://www.indigorealestate.com/",
-      "startDate": "2020-06-01",
-      "endDate": "Present",
-      "summary": "Accounts Payable employee",
-      "highlights": [
-        "Review and correct property invoices",
-        
-      ]
-    },
-    {
-      "company": "Indigo Real Estate Services",
-      "position": "Property Maintenance Worker",
-      "website": "https://www.indigorealestate.com/",
-      "startDate": "2023-06-01",
-      "endDate": "2023-09-29",
-      "summary": "Apartment maintenance employee",
-      "highlights": [
-        "SKilled in drywall, electrical, painting, and wood rework in apartment units",
-        "clean up and fix need amenities around apartment complex"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "YMCA",
-      "website": "https://www.ymca.org/",
-      "position": "Front Desk",
-      "startDate": "2015-06-01",
-      "endDate": "2015-08-23",
-      "summary": "Help work front desk of local YMCA",
-      "highlights": [
-        "Scan membership and tailor to any customer needs",
-      
-      ]
-    },
-  ],
-  "awards": [
-    {
-      "title": "National Honor Society",
-      "date": "2020-2021",
-      "awarder": "Liberty High School Honor Society",
-      "summary": "Awarded top amongst my peers in school for maintaining a 3.5 GPA and above through High School."
-    },
-    {
-      "title": "Dean's List",
-      "date": "2020-2022",
-      "awarder": "Bellevue College",
-      "summary": "Apart of Phi Theta Kappa Honor Society and Dean's List for my two years at Bellevue College for maintaining a 3.5 GPA"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+         "website":"https://www.ymca.org/",
+         "position":"Front Desk",
+         "startDate":"2015-06-01",
+         "endDate":"2015-08-23",
+         "summary":"Help work front desk of local YMCA",
+         "highlights":[
+            "Scan membership and tailor to any customer needs"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"National Honor Society",
+         "date":"2020-2021",
+         "awarder":"Liberty High School Honor Society",
+         "summary":"Awarded top amongst my peers in school for maintaining a 3.5 GPA and above through High School."
+      },
+      {
+         "title":"Dean's List",
+         "date":"2020-2022",
+         "awarder":"Bellevue College",
+         "summary":"Apart of Phi Theta Kappa Honor Society and Dean's List for my two years at Bellevue College for maintaining a 3.5 GPA"
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request"
+      }
+   ]
 }
