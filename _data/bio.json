@@ -45,67 +45,54 @@
     {
       "company": "Indigo Real Estate Services",
       "position": "Account Payable",
-      "website": "",
+      "website": "https://www.indigorealestate.com/",
       "startDate": "2020-06-01",
       "endDate": "Present",
       "summary": "Accounts Payable employee",
       "highlights": [
         "Review and correct property invoices",
-        "Drive, design and build student-community projects for UH Manoa"
+        
       ]
     },
     {
       "company": "Indigo Real Estate Services",
       "position": "Property Maintenance Worker",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "website": "https://www.indigorealestate.com/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-29",
+      "summary": "Apartment maintenance employee",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "SKilled in drywall, electrical, painting, and wood rework in apartment units",
+        "clean up and fix need amenities around apartment complex"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "YMCA",
+      "website": "https://www.ymca.org/",
+      "position": "Front Desk",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-23",
+      "summary": "Help work front desk of local YMCA",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Scan membership and tailor to any customer needs",
+      
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "National Honor Society",
+      "date": "2020-2021",
+      "awarder": "Liberty High School Honor Society",
+      "summary": "Awarded top amongst my peers in school for maintaining a 3.5 GPA and above through High School."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2020-2022",
+      "awarder": "Bellevue College",
+      "summary": "Apart of Phi Theta Kappa Honor Society and Dean's List for my two years at Bellevue College for maintaining a 3.5 GPA"
     }
   ],
   "references": [
